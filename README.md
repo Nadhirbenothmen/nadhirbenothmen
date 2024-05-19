@@ -1,21 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ben othmen Nadhir</h1>
-<h3 align="center"> A Business Inteligence Engineering student from Tunisia. Check out my projects on GitHub. Open to collaborations and new opportunities!</h3>
+<h1 align="center">Hi 👋, I'm Ben Othmen Nadhir</h1>
+<h3 align="center">A Business Intelligence Engineering student from Tunisia. Check out my projects on GitHub. Open to collaborations and new opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
+👀 Data Analyst | SQL | Python | R | Power BI
+<p> 💞️💡 I specialize in data cleaning, analysis, and visualization.
+My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
+
+🔧 Technical Skills:
+<p> -Languages: SQL, Python, R </p>
+<p> -Data Visualization:  Power BI </p>
+<p> -Database Management: MySQL, PostgreSQL </p>
+<p> -Tools: Excel, Jupyter Notebook </p>
+
 - 🔭 I’m currently studying in **ESPRIT**
 
-- 🌱 I’m currently learning **Business Inteligence**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 📫 How to reach me **nadhirbenothmen12@gmail.com**
+- 📫 Contact :  nadhir.benothmen@esprit.tn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ben othmen nadhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben othmen nadhir" height="30" width="40" /></a>
-  <a href="https://fb.com/nà dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nà dhir" height="30" width="40" /></a>
-<a href="https://instagram.com/nadhirbenothmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadhirbenothmen" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ben-othmen-nadhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben othmen nadhir" height="30" width="40" /></a>
+  <a href="https://fb.com/nà-dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nà dhir" height="30" width="40" /></a>
+  <a href="https://instagram.com/nadhirbenothmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadhirbenothmen" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -85,12 +94,13 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> 
   </a>
-  
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
+  </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadhirbenothmen&show_icons=true&locale=en&layout=compact" alt="nadhirbenothmen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadhirbenothmen&show_icons=true&locale=en" alt="nadhirbenothmen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhirbenothmen&" alt="nadhirbenothmen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhirbenothmen&" alt
