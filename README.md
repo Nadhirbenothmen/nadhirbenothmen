@@ -15,7 +15,7 @@ My goal is to help organizations make data-driven decisions that drive growth an
 
 - 🔭 I’m currently studying in **ESPRIT**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Business Inteligence**
 
 - 📫 Contact :  nadhir.benothmen@esprit.tn
 
