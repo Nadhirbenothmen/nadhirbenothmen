@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
 👀 Data Analyst | SQL | Python | R | Power BI
-<p> 💞️💡 I specialize in data cleaning, analysis, and visualization.
+<p> 💞️💡 I'm specialized in data cleaning, analysis, and visualization.
 My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
 
 🔧 Technical Skills:
