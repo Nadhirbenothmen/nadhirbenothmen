@@ -8,7 +8,7 @@
 My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
 
 🔧 Technical Skills:
-<p> -Languages: SQL, Python, R </p>
+<p> -Languages: Python, R </p>
 <p> -Data Visualization:  Power BI </p>
 <p> -Database Management: MySQL, PostgreSQL </p>
 <p> -Tools: Excel, Jupyter Notebook </p>
