@@ -14,7 +14,8 @@
   I'm specialized in data cleaning, analysis, and visualization.
 My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
 <img align="right" alt="coding" height ="250" width="250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
-🔧 Technical Skills:
+
+🔧 Technical Skills :
 <p> -Languages: Python, R </p>
 <p> -Data Visualization:  Power BI </p>
 <p> -Database Management: MySQL, PostgreSQL </p>
@@ -24,7 +25,7 @@ My goal is to help organizations make data-driven decisions that drive growth an
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
 
-- 💞️💡 Let's Collaborate:
+- 💞️💡 Let's Collaborate :
 I'm always open to collaborating on exciting projects and sharing knowledge with the community.
 Feel free to reach out if you have any interesting projects or opportunities.
 
