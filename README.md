@@ -34,9 +34,9 @@ Feel free to reach out if you have any interesting projects or opportunities.
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
-[![Linkedin Badge](https://img.shields.io/badge/-BenOthmenNadhir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/ben-othmen-nadhir-a58604202/) 
-[![Instagram Badge](https://img.shields.io/badge/-@BenOthmenNadhir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.https://www.instagram.com/benothmennadhir/)
-[![Mail Badge](https://img.shields.io/badge/-BenOthmenNadhir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:BenOthmen.Nadhir@esprit.tn)
+[![Linkedin Badge](https://img.shields.io/badge/-BenOthmenNadhir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-othmen-nadhir-a58604202/) 
+[![Instagram Badge](https://img.shields.io/badge/-@BenOthmenNadhir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/benothmennadhir/)
+[![Mail Badge](https://img.shields.io/badge/-BenOthmenNadhir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Nadhir.BenOthmen@esprit.tn)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/Nadhirbenothmen?style=social)
