@@ -1,12 +1,19 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=0F0C90FF&random=false&width=700&lines=Hey+%F0%9F%91%8B+%2C+I%E2%80%99m+%40Ben+Othmen+Nadhir" alt="Typing SVG" /></h1> 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=DarkBlue=25&center=true&vCenter=true&width=800&height=50&lines=Hey!+It's+@Nadhir+Benothmen&hearts;++;ERP+And+Business+Intelligence+Engineer;Data+Analyst;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<!--  About me -->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <h3 align="center">A Business Intelligence Engineering student from Tunisia. Check out my projects on GitHub. Open to collaborations and new opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
 👀 Data Analyst | SQL | Python | R | Power BI
-<p> 💞️💡 I'm specialized in data cleaning, analysis, and visualization.
+<p> 💞️💡 I'm  I'm a data analyst with a passion for transforming raw data into actionable insights. 
+  I'm specialized in data cleaning, analysis, and visualization.
 My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
-
+<img align="right" alt="coding" height ="250" width="250" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 🔧 Technical Skills:
 <p> -Languages: Python, R </p>
 <p> -Data Visualization:  Power BI </p>
@@ -15,17 +22,23 @@ My goal is to help organizations make data-driven decisions that drive growth an
 
 - 🔭 I’m currently studying in **ESPRIT**
 
-- 🌱 I’m currently learning **Business Inteligence**
+- 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
 
-- 📫 Contact :  nadhir.benothmen@esprit.tn
+- 💞️💡 Let's Collaborate:
+I'm always open to collaborating on exciting projects and sharing knowledge with the community.
+Feel free to reach out if you have any interesting projects or opportunities.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ben-othmen-nadhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben othmen nadhir" height="30" width="40" /></a>
-  <a href="https://fb.com/nà-dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nà dhir" height="30" width="40" /></a>
-  <a href="https://instagram.com/nadhirbenothmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadhirbenothmen" height="30" width="40" /></a>
-</p>
 
+<!-- Let's Connect..! -->
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
+[![Linkedin Badge](https://img.shields.io/badge/-BenOthmenNadhir-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/ben-othmen-nadhir-a58604202/) 
+[![Instagram Badge](https://img.shields.io/badge/-@BenOthmenNadhir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.https://www.instagram.com/benothmennadhir/)
+[![Mail Badge](https://img.shields.io/badge/-BenOthmenNadhir-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:BenOthmen.Nadhir@esprit.tn)
+
+<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
+![GitHub followers](https://img.shields.io/github/followers/Nadhirbenothmen?style=social)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -90,8 +103,17 @@ My goal is to help organizations make data-driven decisions that drive growth an
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadhirbenothmen&show_icons=true&locale=en&layout=compact" alt="nadhirbenothmen" /></p>
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadhirbenothmen&show_icons=true&locale=en" alt="nadhirbenothmen" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadhirbenothmen&theme=algolia&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=Nadhirbenothmen&show_icons=true&theme=algolia)](https://https://github.com/Nadhirbenothmen)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhirbenothmen&" alt
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadhirbenothmen&&theme=algolia" alt="Nadhirbenothmen" /></p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Nadhirbenothmen&theme=react)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
