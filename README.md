@@ -8,7 +8,7 @@
 <h3 align="center">A Business Intelligence Engineering student from Tunisia. Check out my projects on GitHub. Open to collaborations and new opportunities!</h3>
 
 <img align="right" alt="coding" height ="200" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
-<br>
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
