@@ -9,7 +9,8 @@
 
 <img align="right" alt="coding" height ="200" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
 👀 Data Analyst | SQL | Python | R | Power BI
 <p> 💞️💡 I'm  I'm a data analyst with a passion for transforming raw data into actionable insights. 
