@@ -107,6 +107,29 @@ Feel free to reach out if you have any interesting projects or opportunities.
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/> 
   </a>
+  <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
+  <img src="https://example.com/sap-logo.png" alt="sap" width="40" height="40"/>
+</a>
+
+<a href="https://dax.guide/" target="_blank" rel="noreferrer">
+  <img src="https://example.com/dax-logo.png" alt="dax" width="40" height="40"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noreferrer">
+  <img src="https://example.com/deep-learning-logo.png" alt="deep learning" width="40" height="40"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
+  <img src="https://example.com/machine-learning-logo.png" alt="machine learning" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Customer_relationship_management" target="_blank" rel="noreferrer">
+  <img src="https://example.com/crm-logo.png" alt="crm" width="40" height="40"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning" target="_blank" rel="noreferrer">
+  <img src="https://example.com/erp-logo.png" alt="erp" width="40" height="40"/>
+</a>
+
 </p>
 
 <!-- Github Stats   -->
