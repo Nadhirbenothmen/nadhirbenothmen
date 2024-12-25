@@ -3,8 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Blue&size=25&center=true&vCenter=true&width=800&height=50&lines=Hey!+It's+@Nadhir+Benothmen&hearts;++;ERP+And+Business+Intelligence+Engineer;Data+Analyst;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<!--  About me -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 <h3 align="center">A Business Intelligence Engineering student from Tunisia. Check out my projects on GitHub. Open to collaborations and new opportunities!</h3>
 
 <img align="center" alt="coding" height ="300" width="1200" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
