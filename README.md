@@ -119,7 +119,6 @@ Feel free to reach out if you have any interesting projects or opportunities.
 [![](https://github-readme-stats.vercel.app/api?username=Nadhirbenothmen&show_icons=true&theme=algolia)](https://https://github.com/Nadhirbenothmen)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadhirbenothmen&&theme=algolia" alt="Nadhirbenothmen" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Nadhirbenothmen&theme=react)
 
