@@ -50,7 +50,7 @@ Feel free to reach out if you have any interesting projects or opportunities.
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://Nadhirbenothmen.github.io/CV/" target="_blank">
+  <a href="https://github.com/Nadhirbenothmen/CV" target="_blank">
     <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a> 
   
