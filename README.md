@@ -30,7 +30,7 @@ My goal is to help organizations make data-driven decisions that drive growth an
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
 
-- 💞️💡 Let's Collaborate :
+- 💡 Let's Collaborate :
 I'm always open to collaborating on exciting projects and sharing knowledge with the community.
 Feel free to reach out if you have any interesting projects or opportunities.
 
@@ -40,19 +40,39 @@ Feel free to reach out if you have any interesting projects or opportunities.
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ben-othmen-nadhir-a58604202/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/benothmennadhir/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:Nadhir.BenOthmen@esprit.tn">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   
-  <a href="https://nadhirbenothmen.github.io/CV_En_Ligne/" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  </a> 
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/ben-othmen-nadhir-a58604202" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/benothmennadhir/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:Nadhir.BenOthmen@esprit.tn">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- CV -->
+<a href="https://nadhirbenothmen.github.io/CV_En_Ligne/" target="_blank">
+    <img src="https://img.shields.io/badge/-CV%20Online-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CV"/>
+</a>
+
+<!-- Portfolio Website -->
+<a href="https://nadhirbenothmen.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20-4C8BF5?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
+
+<!-- YouTube -->
+<a href="https://www.youtube.com/@BENOTHMENYoutubeChannel" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+ 
   
 </p>
 
@@ -62,14 +82,15 @@ Feel free to reach out if you have any interesting projects or opportunities.
 
 ## 🚀 Expertise & Technical Skill
 
-- 💼 **Programming Languages:** Python | SQL | R | DAX | Java 
-- 💼 **Business Intelligence Tools:** Power BI | SAP 
-- 💼 **ETL Development:** Talend | SSIS
-- 💼 **Database Management:** MySQL | PostgreSQL | Oracle | SQL Server
-- 💼 **Machine Learning Frameworks:** TensorFlow | PyTorch | Scikit-learn
-- 💼 **Frameworks:** Spring Boot | Angular | Asp.net Core
-- 💼 **Other Tools:** Microsoft Dynamics 365 | Canva | UML 
-- 💼 **Version Control**: Git | GitHub
+- 🐍 **Programming Languages:** Python | SQL | R | DAX | Java  
+- 📊 **Business Intelligence Tools:** Power BI | SAP  
+- 🔄 **ETL Development:** Talend | SSIS  
+- 🗄️ **Database Management:** MySQL | PostgreSQL | Oracle | SQL Server  
+- 🤖 **Machine Learning Frameworks:** TensorFlow | PyTorch | Scikit-learn  
+- 🖥️ **Frameworks:** Spring Boot | Angular | ASP.NET Core  
+- 🛠️ **Other Tools:** Microsoft Dynamics 365 | Canva | UML  
+- 🌐 **Version Control:** Git | GitHub  
+
 
 ---
 
