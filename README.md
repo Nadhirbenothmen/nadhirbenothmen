@@ -42,7 +42,7 @@ Feel free to reach out if you have any interesting projects or opportunities.
 <p align="center">
   
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/ben-othmen-nadhir-a58604202" target="_blank">
+<a href="https://www.linkedin.com/in/nadhir-ben-othmen-a58604202/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
