@@ -19,7 +19,7 @@ With strong skills in **Data Analysis** and **Business Intelligence**.
 <br>
 <img src="https://komarev.com/ghpvc/?username=nadhirbenothmen&label=Profile%20views&color=0e75b6&style=flat" alt="nadhirbenothmen" /> </p>
 
-<p> 💡 I'm  I'm a data analyst with a passion for transforming raw data into actionable insights. 
+<p> 💡 I'm a data analyst with a passion for transforming raw data into actionable insights. 
   I'm specialized in data cleaning, analysis, and visualization.
 My goal is to help organizations make data-driven decisions that drive growth and efficiency. </p>
 
