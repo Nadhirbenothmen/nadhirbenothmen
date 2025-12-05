@@ -9,8 +9,8 @@
 <div align="center">
 
 # 👋 I'm **Nadhir BEN OTHMEN**  
-A third-year engineering student specializing in **ERP - Business Intelligence** at ESPRIT (Tunisia).  
-With strong skills in **Data Analysis** and **Business Intelligence**.
+A graduated **ERP & Business Intelligence Engineer** from **ESPRIT, Tunisia**.  
+Passionate about **Data Engineering, Business Intelligence, and Artificial Intelligence**, I enjoy turning data into smart, actionable insights.
 
 </div>
 <img align="center" alt="coding" height ="300" width="1200" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
@@ -26,9 +26,10 @@ My goal is to help organizations make data-driven decisions that drive growth an
 
 ---
 
-- 🔭 I’m currently studying in **ESPRIT**
-
-- 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
+- 🎓 Recently graduated as a **Business Intelligence Engineer** from ESPRIT.
+- 🔭 Currently working on advanced **ETL pipelines, LLM-based enrichment, and Data Engineering projects**.
+- 🌱 Expanding my expertise in **Machine Learning, NLP, and Cloud technologies**.
+- 🤝 Open to collaboration on **Data, AI, BI, and full-stack analytics platforms**.
 
 - 💡 Let's Collaborate :
 I'm always open to collaborating on exciting projects and sharing knowledge with the community.
@@ -63,7 +64,7 @@ Feel free to reach out if you have any interesting projects or opportunities.
 </a>
 
 <!-- Portfolio Website -->
-<a href="https://nadhirbenothmen.github.io/MyPortfolio/" target="_blank">
+<a href="https://nadhirbenothmen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20-4C8BF5?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
