@@ -58,11 +58,6 @@ Feel free to reach out if you have any interesting projects or opportunities.
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- CV -->
-<a href="https://nadhirbenothmen.github.io/CV_En_Ligne/" target="_blank">
-    <img src="https://img.shields.io/badge/-CV%20Online-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CV"/>
-</a>
-
 <!-- Portfolio Website -->
 <a href="https://nadhirbenothmen.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20-4C8BF5?style=for-the-badge&logo=google-chrome&logoColor=black"/>
